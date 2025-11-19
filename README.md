@@ -80,5 +80,3 @@ Expected response:
   "unique_words": ["i","love","working","with","javascript","and","node.js"],
   "reversed_sentence": "Node.js and JavaScript with working love I"
 }
-
-Git submission: push this repository to your Git provider and submit the link. For the published link field, put 'NA'.
